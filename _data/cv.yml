@@ -17,9 +17,9 @@ cv:
   address:
     street: 
     city: Santiago
-    region: Santiago
+    region: Chile
     postalCode: 
-    countryCode: Chile
+    countryCode: +56
 
   sections:
     Education:
