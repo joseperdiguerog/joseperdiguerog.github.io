@@ -27,5 +27,6 @@ latest_posts:
 ---
 
 Hi! I'm a second-year PhD(c) student in Physics at [Universidad Andrés Bello](https://www.unab.cl) (UNAB), Chile. I'm currently working on modified gravity, including parity violation in the propagation of gravitational waves, cosmological dynamical systems, and the chameleon screening mechanism.
+
 I received a B.Sc. in Physics and an M.Sc. in Physics from [Universidad Técnica Federico Santa María](https://usm.cl/) in Valparaíso, Chile.
 
