@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: Activities
 permalink: /projects/
-description: A collection of my research projects.
+description: All my activities associated with my research.
 nav: true
 nav_order: 3
-display_categories: [Research]
+display_categories: [Research,Activities]
 horizontal: false
 ---
 
